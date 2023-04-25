@@ -1,0 +1,16 @@
+{
+  "name": "node-csfle-aws-kms",
+  "version": "1.0.0",
+  "description": "Automatic Encryption for fields using AWS KMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.6.0-alpha.0",
+    "mongodb-client-encryption": "^2.7.1"
+  }
+}
